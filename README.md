@@ -1,2 +1,2 @@
 # chatGo
-a fullstack Chat application using Golang and React using socket
+A fullstack Chat application using Golang and React using socket
